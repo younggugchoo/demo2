@@ -10,4 +10,10 @@ public class HomeController {
 	public void index () {
 		
 	}
+
+	@RequestMapping(name="add")
+	public void Add(){
+	}
+
+
 }
