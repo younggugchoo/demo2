@@ -8,6 +8,12 @@ public class HomeController {
 
 	@RequestMapping(name="index")
 	public void index () {
+
 		
+	}
+
+	@RequestMapping(name="list")
+	public void List(){
+
 	}
 }
