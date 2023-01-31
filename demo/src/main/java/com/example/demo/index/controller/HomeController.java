@@ -12,7 +12,12 @@ public class HomeController {
 	}
 
 	@RequestMapping(name="add")
-	public void Add(){
+	public void add(){
+	}
+	
+	
+	@RequestMapping(name="list")
+	public void list(){
 	}
 
 
